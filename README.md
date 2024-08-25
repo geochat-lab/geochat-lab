@@ -15,24 +15,6 @@ No GeoChat, acreditamos no poder dos dados para entender e moldar o mundo ao nos
 - **Análise de Dados**: Como usar dados geoespaciais para responder a perguntas complexas sobre o mundo.
 - **Tutoriais e Guias**: Passo a passo para começar com ferramentas e linguagens populares, como Python, QGIS, e mais.
 
-## 📂 Estrutura do Repositório
-
-- **/data/**: Conjuntos de dados usados nos tutoriais e projetos.
-- **/scripts/**: Scripts em Python e outros códigos que suportam as análises e visualizações.
-- **/notebooks/**: Notebooks Jupyter com tutoriais detalhados e explicações.
-- **/projects/**: Projetos completos que demonstram aplicações práticas dos conceitos discutidos.
-- **/docs/**: Documentação do projeto, incluindo guias de instalação e uso.
-
-## 🛠️ Como Contribuir
-
-Quer contribuir com o GeoChat? Adoraríamos ter você a bordo! Sinta-se à vontade para:
-
-1. **Fork** o repositório.
-2. Crie um **branch** com sua feature ou correção: `git checkout -b minha-feature`.
-3. **Commit** suas mudanças: `git commit -m 'Adiciona nova feature'`.
-4. Faça um **push** para o branch: `git push origin minha-feature`.
-5. Abra um **Pull Request**.
-
 ## 📝 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
